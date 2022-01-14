@@ -41,8 +41,22 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Kochi, India
-    date_start: '2016-01-01'
-    date_end: '2020-09-01'
+    date_start: '2019-09-01'
+    date_end: '2021-08-16'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+
+  - title: System Administartor
+    company: IT People Corporation
+    company_url: ''
+    company_logo: org-x
+    location: Hyderabad, India
+    date_start: '2019-03-01'
+    date_end: '2019-08-30'
     description: |2-
         Responsibilities include:
         
