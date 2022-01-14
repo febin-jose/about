@@ -16,7 +16,7 @@ social:
     link: https://github.com/joenibe
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://in.linkedin.com/in/febinjose5172
   - display:
       header: false
     link: https://www.goodreads.com/user/show/82698964-febin
