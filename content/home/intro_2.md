@@ -1,5 +1,5 @@
 ---
-widget: about
+widget: blank
 headless: true
 weight: 110
 title: My philosophies
