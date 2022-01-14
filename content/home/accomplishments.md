@@ -1,5 +1,5 @@
 ---
-widget: accomplishments
+widget: certifications
 date_format: Jan 2006
 item:
   - certificate_url: https://www.coursera.org
@@ -26,10 +26,10 @@ item:
     organization_url: https://www.datacamp.com
     title: Object-Oriented Programming in R
     url: ""
-widget_id: accomplishments
+widget_id: certifications
 headless: true
 weight: 50
-title: Accomplishments
+title: Certifications
 subtitle: null
 design:
   columns: "2"
