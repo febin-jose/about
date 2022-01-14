@@ -17,6 +17,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+  - display:
+      header: false
+    link: https://www.goodreads.com/user/show/82698964-febin
+    icon_pack: fab
+    icon: goodreads
 organizations: []
 education:
   courses: []
