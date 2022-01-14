@@ -1,5 +1,6 @@
 ---
 role: Secuirty Enthusiast
+avatar_filename: https://github.com/JoeNibe/JoeNibe.github.io/raw/master/assets/images/author1.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
