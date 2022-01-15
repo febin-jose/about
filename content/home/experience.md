@@ -29,12 +29,12 @@ experience:
     location: Pune, India
     date_start: '2021-08-17'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+#    description: |2-
+#        Responsibilities include:
+#        
+#        * Analysing
+#        * Modelling
+#        * Deploying
         
   - title: Security Analyst
     company: Ernst & Young
@@ -43,12 +43,12 @@ experience:
     location: Kochi, India
     date_start: '2019-09-01'
     date_end: '2021-08-16'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+#    description: |2-
+#        Responsibilities include:
+#        
+#        * Analysing
+#        * Modelling
+#        * Deploying
 
   - title: System Administartor
     company: IT People Corporation
@@ -57,12 +57,12 @@ experience:
     location: Hyderabad, India
     date_start: '2019-03-01'
     date_end: '2019-08-30'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+#    description: |2-
+#        Responsibilities include:
+#        
+#        * Analysing
+#        * Modelling
+#        * Deploying
 design:
   columns: '2'
 ---
