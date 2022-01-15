@@ -1,12 +1,8 @@
 ---
 role: Secuirty Enthusiast
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Reading
-  - Security
-  - ""
+bio: ""
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
