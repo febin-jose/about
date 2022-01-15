@@ -2,30 +2,30 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.credly.com/badges/dab0694d-46dc-4f82-b877-a2072ed9410f
     date_end: ""
-    date_start: 2021-01-25
+    date_start: 2021-12-30
     description: ""
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ""
-  - certificate_url: https://www.edx.org
+    organization: Amazon Web Services
+    organization_url: https://aws.amazon.com/training/
+    title: AWS Certified Security – Specialty
+    url: https://aws.amazon.com/certification/certified-security-specialty/
+  - certificate_url: https://www.credly.com/badges/e1097ff6-50d6-4e76-a3fc-f2942436b423
     date_end: ""
-    date_start: 2021-01-01
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: 2020-12-21
-    date_start: 2020-07-01
+    date_start: 2021-04-24
     description: ""
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: Object-Oriented Programming in R
-    url: ""
+    organization: Microsoft
+    organization_url: https://www.microsoft.com
+    title: Microsoft Certified: Azure Fundamentals (AZ-900)
+    url: https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/
+  - certificate_url: https://www.credly.com/badges/5f099b21-2603-4526-a682-dee32af8342e
+    date_end: ""
+    date_start: 2021-02-16
+    description: ""
+    organization: Offensive Security
+    organization_url: https://www.offensive-security.com/
+    title: Offensive Security Certified Professional (OSCP)
+    url: https://www.offensive-security.com/pwk-oscp/
 widget_id: certifications
 headless: true
 weight: 50
