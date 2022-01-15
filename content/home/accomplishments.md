@@ -26,6 +26,31 @@ item:
     organization_url: https://www.offensive-security.com/
     title: Offensive Security Certified Professional (OSCP)
     url: https://www.offensive-security.com/pwk-oscp/
+  - certificate_url: https://www.credly.com/badges/5b276e7d-c54f-4bb8-bdfd-94e9d411564e
+    date_end: ""
+    date_start: 2020-06-29
+    description: ""
+    organization: Ernst & Young
+    organization_url: https://www.ey.com
+    title: EY Cybersecurity - Bronze
+    url: ""
+  - certificate_url: https://www.credly.com/badges/4f0b5156-f5d9-4072-be78-99d52f4fe6d2
+    date_end: ""
+    date_start: 2019-03-21
+    description: ""
+    organization: Cisco
+    organization_url: https://www.cisco.com/
+    title: Cisco Certified Network Associate Routing and Switching(CCNA)
+    url: https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html
+
+  - certificate_url: https://www.credly.com/badges/5dd36c5e-c114-4a04-967a-d1f07953548c
+    date_end: ""
+    date_start: 2018-11-10
+    description: ""
+    organization: CompTIA
+    organization_url: https://www.comptia.org/certifications/comptia-digital-badges
+    title: CompTIA Security+
+    url: https://www.comptia.org/certifications/security
 widget_id: certifications
 headless: true
 weight: 50
