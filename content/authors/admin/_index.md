@@ -2,7 +2,10 @@
 role: Secuirty Enthusiast
 avatar_filename: avatar.jpg
 bio: ""
-interests: []
+interests:
+  - Reading
+  - Trekking
+  - Procastinating
 social:
   - icon: envelope
     icon_pack: fas
@@ -20,7 +23,10 @@ social:
     icon: goodreads
 organizations: []
 education:
-  courses: []
+  courses:
+    - course: B.Sc. Physical Science
+      institution: St. Stephen's College, University of Delhi
+      year: 2018
 superuser: true
 highlight_name: true
 title: Febin Jose
