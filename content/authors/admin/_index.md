@@ -34,9 +34,9 @@ email: ""
 ---
 <!--StartFragment-->
 
-Hi, I am Febin Jose and I am a security enthusiast. I love making scripts and automating stuff for improving security. I specialize in web app and cloud security testing. I also dabble in binary exploitation and source code review.
+Hi, I am Febin Jose and I am a cyber security enthusiast. I love making scripts and automating stuff for improving security. I specialize in web app and cloud security testing. I also dabble in binary exploitation and source code review.
 
-You can find write-ups for various CTFs, online security challenges and other security issues I encounter in my [blog](https://joenibe.github.io/).
+In my free time you can find me starring at my kindle or daydreaming and contemplating meaning of life. You can find write-ups for various CTFs, online security challenges and other security issues I encounter in my [blog](https://joenibe.github.io/).
 
 <!--EndFragment-->
 
