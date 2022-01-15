@@ -16,7 +16,7 @@ item:
     description: ""
     organization: Microsoft
     organization_url: https://www.microsoft.com
-    title: Microsoft Certified: Azure Fundamentals (AZ-900)
+    title: "Microsoft Certified: Azure Fundamentals (AZ-900)"
     url: https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/
   - certificate_url: https://www.credly.com/badges/5f099b21-2603-4526-a682-dee32af8342e
     date_end: ""
